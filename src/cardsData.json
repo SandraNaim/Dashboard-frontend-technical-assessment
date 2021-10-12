@@ -1,0 +1,13 @@
+
+{
+    "cardsData": [
+        {"colNb": 4, "card": 0, "title": "Repairs", "price": 770, "discountedPercentage": 20},
+        {"colNb": 4, "card": 0, "title": "Network unlocks", "price": 5000, "discountedPercentage": 20},
+        {"colNb": 4, "card": 2, "title": ""},
+        {"colNb": 4, "card": 0, "title": "Trade in", "price": 7000, "discountedPercentage": 20},
+        {"colNb": 4, "card": 0, "title": "Accessories & Parts", "price": 1000, "discountedPercentage": 20},
+        {"colNb": 4, "card": 5},
+        {"colNb": 8, "card": 1, "title": ""},
+        {"colNb": 8, "card": 4, "title": "Bar Chart"}
+    ]
+}

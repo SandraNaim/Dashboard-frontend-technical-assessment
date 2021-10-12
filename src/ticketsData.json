@@ -1,0 +1,36 @@
+{
+    "tickets": [
+        {
+            "ticketNb": "0-14",
+            "task": "task1",
+            "pickedTime": "2020-09-16 12:32:37",
+            "assignedTo": "Jack Hanna",
+            "customer": "Mike John",
+            "status": 1
+        },
+        {
+            "ticketNb": "14-18",
+            "task": "task2",
+            "pickedTime": "2020-10-16 12:30:30",
+            "assignedTo": "Jad Melhif",
+            "customer": "Fadi Raid",
+            "status": 2
+        },
+        {
+            "ticketNb": "20-14",
+            "task": "task3",
+            "pickedTime": "2020-10-16 12:30:30",
+            "assignedTo": "Hiba Sallo",
+            "customer": "Jean Bassd",
+            "status": 2
+        },
+        {
+            "ticketNb": "24-30",
+            "task": "task4",
+            "pickedTime": "2021-02-16 12:30:30",
+            "assignedTo": "Rasha Wael",
+            "customer": "Razan senno",
+            "status": 3
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "fields": [
+        { "title": "Customer" },
+        { "title": "Ticket #" },
+        { "title": "Coin #" },
+        { "title": "Users" }
+    ]
+}
